@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Micro:bit projects.
-- 🌱 I’m currently learning: TypeScript.
+- 🌱 I’m currently learning: html/css/pug/express/typescript.
 - 👯 I’m looking to collaborate: With big projects.
 - 🤔 I’m looking for help with: Learning TypeScript.
 - 💬 Ask me about: What I do.
